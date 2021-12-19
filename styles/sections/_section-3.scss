@@ -1,0 +1,30 @@
+.section-3 {
+    width: 100%;
+    height: auto;
+    padding: 0px 150px;
+
+    h1 {
+        font-size: 46px;
+        text-align: center;
+        color: #06071C;
+    }
+
+    p {
+        color: #06071C;
+        opacity: 0.5;
+        font-size: 18px;
+        text-align: center;
+        margin-top: 25px;
+    }
+
+    img {
+        width: 50%;
+    }
+
+    .section-3-img {
+        height: 99vh;
+        background-image: url("/assets/Group\ 34.svg");
+        margin-top: 60px;
+    }
+
+}
